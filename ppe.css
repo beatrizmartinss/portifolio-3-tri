@@ -1,0 +1,14 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+        font-family: "Fuzzy Bubbles", sans-serif;
+}
+
+
+
+body{
+    background-color: rgb(228, 156, 218);
+    height: 100vh;
+}
